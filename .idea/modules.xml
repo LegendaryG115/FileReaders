@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaReactAzureNextGen.iml" filepath="$PROJECT_DIR$/JavaReactAzureNextGen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyNewCode/MyNewCode.iml" filepath="$PROJECT_DIR$/MyNewCode/MyNewCode.iml" />
     </modules>
   </component>
 </project>
